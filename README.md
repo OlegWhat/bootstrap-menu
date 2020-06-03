@@ -1,5 +1,5 @@
-# bootstrap4template
+# This is simple bootstrap menu template
 
-This is a simple Bootstrap 4, font-awesome 5.13 template
+A simple bootstrap template
 
-![GitHub Logo](https://github.com/OlegWhat/bootstrap4template/blob/master/bootstrap4template.PNG)
+![GitHub Logo](https://github.com/OlegWhat/bootstrap-menu/blob/master/menu.PNG)
